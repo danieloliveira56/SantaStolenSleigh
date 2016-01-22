@@ -1,6 +1,5 @@
 *.vcx*
 Debug/
-Linux/
 Readme.txt
 Release/
 *.rar
