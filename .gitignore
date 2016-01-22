@@ -1,0 +1,15 @@
+*.vcx*
+CPUTimer*
+Debug/
+Linux/
+Readme.txt
+Release/
+*.rar
+*.exe
+dirent.h
+*.lp
+log.txt
+stdafx*
+solutions/
+targetver.h
+.xxx
