@@ -1,5 +1,4 @@
 *.vcx*
-CPUTimer*
 Debug/
 Linux/
 Readme.txt
